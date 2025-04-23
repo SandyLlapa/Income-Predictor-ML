@@ -1,4 +1,4 @@
-#Problem Statement#
+# Problem Statement
 
 The census provides important information about a country’s population to help understand its needs and trends. Information about the population’s yearly income can be helpful in understanding the financial support that certain households may need more than others. By focusing on households that require greater financial support, public policies and government resources can be allocated efficiently. Allocating resources effectively will ensure that those in need receive adequate support, thereby reducing economic disparities.
 
