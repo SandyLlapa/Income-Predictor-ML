@@ -1,4 +1,5 @@
-Problem Statement
+#Problem Statement#
+
 The census provides important information about a country’s population to help understand its needs and trends. Information about the population’s yearly income can be helpful in understanding the financial support that certain households may need more than others. By focusing on households that require greater financial support, public policies and government resources can be allocated efficiently. Allocating resources effectively will ensure that those in need receive adequate support, thereby reducing economic disparities.
 
 A potential machine learning method for this task is classification. Decision trees and random forests can be used to identify relationships between factors such as age, education, and location. Classification is well-suited to this problem because it can handle non-linear relationships between variables. However, this dataset poses challenges, such as the risk of outdated information. The demographics of the population may have changed significantly over time, potentially affecting the model’s accuracy. Additionally, there may be missing or incomplete data, which can affect the model's ability to make accurate predictions.
